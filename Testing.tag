@@ -5,6 +5,6 @@ click /html/body/div[1]/div/div/div/div/div/div/div/div/div[3]/div/div[2]/div/bu
 
 wait 15s 
 
-type /html/body/div/div/div/div/div/div/div/div/form/div[3]/div[2]/span/input 
+type /html/body/div/div/div/div/div/div/div/div/form/div[3]/div[2]/span/input as
 click /html/body/div/div/div/div/div/div/div/div/form/div[5]/div/button
  
